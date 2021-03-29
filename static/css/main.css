@@ -1,0 +1,26 @@
+
+nav ul{
+    list-style-type: none;
+}
+
+nav li{
+    display: inline;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: orange;
+}
+
+.navigation-links {
+    font-size: 36px;
+}
+
+#hero-image {
+    height: 500px;
+    background-image: url("/static/images/graffiti-wall-2527331_640.jpeg");
+}
+
